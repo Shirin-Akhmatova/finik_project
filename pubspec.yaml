@@ -1,0 +1,62 @@
+name: finik
+description: "Finik project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_svg: ^2.0.10+1
+  animated_pin_input_text_field: ^1.0.0
+  loading_indicator: ^3.1.1
+  timer_builder: ^2.0.0
+  open_street_map_search_and_pick: ^0.1.1
+  bloc: ^8.1.4
+  amazon_cognito_identity_dart_2: ^3.6.4
+  flutter_dotenv: ^5.1.0
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Group9314.png
+    - assets/Frame335165.png
+    - assets/Frame335165.svg
+    - assets/Ellipse2.png
+    - assets/Ellipse3.png
+    - assets/iPhone15.png
+    - assets/bluebox1.png
+    - assets/BlueEllipse2.png
+    - assets/BlueEllipse3.png
+    - assets/OrangeEllipse2.png
+    - assets/MacBookPro16(1).png
+    - assets/orangePinkEllipse3.png
+    - assets/pinkEllipse2.png
+    - assets/Group.png
+    - assets/fifthEllipse3.png
+    - assets/map.png
+    - assets/Rectangle3.png
+    - assets/terminal_icon.svg
+    - assets/phone_Icon.svg
+    - assets/planet_icon.svg
+    - assets/house_icon.svg
+    - assets/terminal_icon.png
+    - assets/planet_icon.png
+    - assets/house_icon.png
+    - assets/phone_icon.png
+    - assets/duck.svg
+    - assets/duck.png
+    - assets/duck1.png
+    - assets/Vector.png
+    - assets/finikIcon.png
+    - assets/smallVector.png
